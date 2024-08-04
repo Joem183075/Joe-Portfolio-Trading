@@ -1,0 +1,1 @@
+A side hustle to learn more about retail trading as a hobby.
