@@ -6,7 +6,7 @@ stock_symbol = 'ZM'
 start_date = '2023-01-01'
 
 # Fetch historical data
-data = yf.download(stock_symbol, start=start_date, interval='1mo')
+data = yf.download(stock_symbol, start=start_date, interval='1wk')
 
 # Calculate returns
 data['Return'] = data['Adj Close'].pct_change()
