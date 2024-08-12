@@ -2,7 +2,8 @@ import yfinance as yf
 import pandas as pd
 
 # Define the stock symbol and the start date
-stock_symbol = 'ZM'
+s=input ("Enter the stock symbol:")
+stock_symbol = s
 start_date = '2023-01-01'
 
 # Fetch historical data
