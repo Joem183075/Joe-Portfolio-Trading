@@ -1,0 +1,2 @@
+A side hustle to learn trading in the US market. The idea is to learn the framework, the art, the science of trading ONLY US exchnged traded options and stock leveraging margins from brokerage account. 
+Most of the automations will be done usign Python and for building the foundation knowledge the source is ITPM.com. 
