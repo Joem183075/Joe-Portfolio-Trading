@@ -6,3 +6,4 @@ chromedriver-mac-x64.zip
 chromedriver.exe
 _pycache_
 .vscode
+*.txt
