@@ -2,5 +2,7 @@ myenv
 returns.xlsx
 returns1.xlsx
 page_source.html
-*.zip
+chromedriver-mac-x64.zip
 chromedriver.exe
+_pycache_
+.vscode
